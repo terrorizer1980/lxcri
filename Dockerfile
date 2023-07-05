@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 ARG installcmd=install_all
 
 #ENV PKGS="psmisc util-linux"
